@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @octapud
 - 👀 I’m interested in AI and Finance
-- 🌱 I’m currently learning Python, LLM
+- 🌱 I’m currently learning Python, Transformers
 - ⚡ Fun fact: I don't eat squid
 
 <!---
